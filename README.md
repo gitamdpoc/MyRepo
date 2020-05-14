@@ -1,2 +1,2 @@
 # MyRepo
-Sample Repo
+Sample Repo - Python code snippets
